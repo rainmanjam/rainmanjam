@@ -5,16 +5,16 @@ DevOps and Automation Engineer
 ------------------------------
 
 👨‍💻🌟 About Shannon Atkinson
-Hello, I'm Shannon Atkinson, a Staff Software Engineer/DevOps Engineer at Realtor.com with over 15 years in software quality engineering and test automation development. I'm passionate about modern programming languages, design patterns, scalable architectures, and thrive in fast-paced, collaborative environments.
+Hello, I'm Shannon Atkinson, a Staff Software Engineer/DevOps Engineer at Realtor.com with over 15 years in software quality engineering and test automation development. I'm passionate about modern programming languages, design patterns, and scalable architectures, and I thrive in fast-paced, collaborative environments.
 
 🚀💡 Professional Journey
-From Nike to Realtor.com, I've held diverse roles, leading testing, and validation design, risk assessments, test guidance, and developing internal software solutions for product confidence and quality.
+From Nike to Realtor.com, I've held diverse roles, leading testing and validation design, risk assessments, test guidance, and developing internal software solutions for product confidence and quality.
 
 🔧 Core Skills
 
-* Programming Languages: Java, Python
+* Programming Languages: Javascript, Python
 * DevOps Expertise: Jenkins, Automation, CI/CD
-* Certifications: Jenkins Engineer, GIAC, ASTQB Mobile Tester, MCSE Windows 2000
+* Certifications: Jenkins Engineer, GIAC, ASTQB Mobile Tester
 * Patent Holder: System for operating multiple transceiver modules concurrently
 
 🌱📚 Continuous Learning
@@ -23,7 +23,7 @@ Committed to continuous learning, I focus on innovative technology solutions in 
 📫🤝 Connect
 Let's connect for collaborations and discussions on technology solutions. Exploring innovative ways to contribute to your organization's success.
 
-* 🌍  I'm based in Portland OR
+* 🌍  I'm based in Portland, OR
 * ✉️  You can contact me at [rainmanjam@gmail.com](mailto:rainmanjam@gmail.com)
 
 ### Skills
