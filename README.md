@@ -4,29 +4,24 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 DevOps and Automation Engineer
 ------------------------------
 
-👨‍💻 About Me Hello! I'm Shannon, a passionate DevOps and Automation Engineer with a knack for streamlining software development and deployment processes. I believe in the power of automation and its transformative impact on the IT industry. With a Bachelor’s degree in Computer Science and numerous certifications under my belt (including AWS Certified Solutions Architect and Certified Kubernetes Administrator), I have spent the last 10 years designing, implementing, and managing robust CI/CD pipelines and automation workflows. 
+👨‍💻🌟 About Shannon Atkinson
+Hello, I'm Shannon Atkinson, a Staff Software Engineer/DevOps Engineer at Realtor.com with over 15 years in software quality engineering and test automation development. I'm passionate about modern programming languages, design patterns, scalable architectures, and thrive in fast-paced, collaborative environments.
 
-🚀 Professional Journey My journey started as a Software Developer, where I learned the intricacies of coding and software design. This experience laid the foundation for my transition to DevOps, where I combine development insights with operational acumen. Currently, I am working at Realtor.com, where I have: Automated deployment processes, reducing deployment time by 40%. Spearheaded the migration of infrastructure to the cloud (AWS/Azure/GCP), enhancing scalability and resilience. Implemented containerization using Docker and Kubernetes, leading to a 50% improvement in system efficiency. Developed Python and Bash scripts to automate routine tasks, boosting team productivity. 
+🚀💡 Professional Journey
+From Nike to Realtor.com, I've held diverse roles, leading testing, and validation design, risk assessments, test guidance, and developing internal software solutions for product confidence and quality.
 
-💡 Core Skills 
+🔧 Core Skills
 
-Cloud Platforms: AWS, Azure, GCP 
+* Programming Languages: Java, Python
+* DevOps Expertise: Jenkins, Automation, CI/CD
+* Certifications: Jenkins Engineer, GIAC, ASTQB Mobile Tester, MCSE Windows 2000
+* Patent Holder: System for operating multiple transceiver modules concurrently
 
-Containerization: Docker, Kubernetes 
+🌱📚 Continuous Learning
+Committed to continuous learning, I focus on innovative technology solutions in home buying, selling, and renting journeys.
 
-CI/CD Tools: Jenkins, GitLab CI, CircleCI 
-
-IaC & Configuration Management: Terraform, Ansible, Chef 
-
-Scripting: Python, Bash 
-
-Version Control: Git, GitHub, GitLab 
-
-Monitoring & Logging: Prometheus, Grafana, ELK Stack 
-
-🌱 Continuous Learning I am a lifelong learner, constantly updating my skills. Currently, I'm diving deep into serverless architectures and exploring AI/ML potentials in DevOps. 
-
-📫 Get in Touch I love connecting with like-minded professionals and sharing knowledge. Feel free to reach out to me for collaborations, mentorship, or just a chat about the latest in tech.
+📫🤝 Connect
+Let's connect for collaborations and discussions on technology solutions. Exploring innovative ways to contribute to your organization's success.
 
 * 🌍  I'm based in Portland OR
 * ✉️  You can contact me at [rainmanjam@gmail.com](mailto:rainmanjam@gmail.com)
